@@ -1,0 +1,22 @@
+[2025-07-23 23:15:47,144] INFO - 🔁 Loading data...
+[2025-07-23 23:15:47,144] ERROR - ❌ Failed to load required files: [Errno 2] No such file or directory: 'df_cleaned.pkl'
+[2025-07-23 23:19:26,204] INFO - 🔁 Loading data...
+[2025-07-23 23:19:26,700] INFO - ✅ Data loaded successfully.
+[2025-07-23 23:26:15,265] INFO - 🔁 Loading data...
+[2025-07-23 23:26:15,343] INFO - ✅ Data loaded successfully.
+[2025-07-23 23:26:17,986] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-23 23:26:17,989] INFO - ✅ Top 5 recommendations ready.
+[2025-07-23 23:50:15,229] INFO - 🔁 Loading data...
+[2025-07-23 23:50:15,918] INFO - ✅ Data loaded successfully.
+[2025-07-23 23:50:22,548] INFO - 🎬 Recommending movies for: '10 Days in a Madhouse'
+[2025-07-23 23:50:22,556] INFO - ✅ Top 5 recommendations ready.
+[2025-07-23 23:51:15,153] INFO - 🎬 Recommending movies for: 'Halloween 5: The Revenge of Michael Myers'
+[2025-07-23 23:51:15,157] INFO - ✅ Top 5 recommendations ready.
+[2025-07-23 23:52:03,816] INFO - 🎬 Recommending movies for: 'Guardians of the Galaxy'
+[2025-07-23 23:52:03,820] INFO - ✅ Top 5 recommendations ready.
+[2025-07-23 23:52:26,781] INFO - 🎬 Recommending movies for: 'Guardians of the Galaxy'
+[2025-07-23 23:52:26,785] INFO - ✅ Top 5 recommendations ready.
+[2025-07-23 23:53:52,739] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-23 23:53:52,744] INFO - ✅ Top 5 recommendations ready.
+[2025-07-23 23:53:57,870] INFO - 🎬 Recommending movies for: '10 Things I Hate About You'
+[2025-07-23 23:53:57,877] INFO - ✅ Top 5 recommendations ready.
